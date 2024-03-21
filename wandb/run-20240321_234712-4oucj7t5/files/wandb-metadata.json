@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.0-arm64-arm-64bit",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-03-21T16:47:13.906750",
+    "startedAt": "2024-03-21T16:47:12.955915",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/HaiDang2001VN/albert-imdb.git",
+        "commit": "c2a9f8c2396a7d94e86b9be7050a42d3becd8aa1"
+    },
+    "email": "danghailamhuynh@gmail.com",
+    "root": "/Users/haidang/Library/CloudStorage/GoogleDrive-danghailamhuynh@gmail.com/My Drive/HCMUS/Grad/Master/HP1/Advanced AI/Project/Source/reimple",
+    "host": "DangBook.local",
+    "username": "haidang",
+    "executable": "/opt/homebrew/anaconda3/envs/nlp/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 323.7811393737793
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
