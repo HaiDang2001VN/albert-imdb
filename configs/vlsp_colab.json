@@ -1,3 +1,28 @@
 {
-    "path": "/content/drive/MyDrive/HCMUS/Grad/Master/Học phần/HP1/Advanced AI/Project/Source/reimple"
+    "path": "/content/drive/MyDrive/HCMUS/Grad/Master/Học phần/HP1/Advanced AI/Project/Source/reimple",
+    "model_path":
+    {
+        "albert":
+        {
+            "base": "albert-base-v2",
+            "large": "albert-large-v2"
+        },
+        "bart":
+        {
+            "base": "facebook/bart-base",
+            "large": "facebook/bart-large"
+
+        },
+        "electra":
+        {
+            "small": "google/electra-small-discriminator",
+            "base": "google/electra-base-discriminator",
+            "large": "google/electra-large-discriminator"
+        },
+        "phobert":
+        {
+            "base": "vinai/phobert-base",
+            "large": "vinai/phobert-large"
+        }
+    }
 }
